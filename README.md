@@ -38,7 +38,7 @@ The application has three different modes.
 
 2) Running application with venv.
 To run using virtualenv enviroment run this command - .\venv\Scripts\activate - you must be in the same directory what retrieve_ip_data.py before typing this command.
-To disactivate venv run - .\venv\Scripts\deactivate
+To disactivate venv run - deactivate
 
 To run the functions follow the steps above!
 
