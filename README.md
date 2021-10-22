@@ -3,7 +3,7 @@
 
 Application instructions.
 
-1) running globaly:
+1) running globally:
 
 TO run this application globally without virtualenv. Make sure you have installed requierd modules:
 * pip install requests
@@ -34,10 +34,10 @@ The application has three different modes.
     How to run:
        python retrieve_ip_data.py rdap --ipfrom <int - from 1 to 4999> -- ipto <int - from 2 to 5000> -f list_of_ips.txt - text file in the same directory where retrieve_ip_data.py
        
-!!!! The text file need to be in the same direcotry what retrieve_ip_data.py. In other case you need to provide the absolute path to the file!!!!!!
+!!!! The text file need to be in the same direcotry where retrieve_ip_data.py. In other case you need to provide the absolute path to the file!!!!!!
 
 2) Running application with venv.
-To run using virtualenv enviroment run this command - .\venv\Scripts\activate - you must be in the same directory what retrieve_ip_data.py before typing this command.
+To run using virtualenv enviroment run this command - .\venv\Scripts\activate - you must be in the same directory where retrieve_ip_data.py before typing this command.
 To disactivate venv run - deactivate
 
 To run the functions follow the steps above!
