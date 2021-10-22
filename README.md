@@ -42,6 +42,10 @@ To disactivate venv run - .\venv\Scripts\deactivate
 
 To run the functions follow the steps above!
 
+Summary: 
+
+The data is pulled from free API servers. Avoid large number of ips at one time. Sometimes the server can return error because of many request in short time.
+
 
 Thank you!
 
