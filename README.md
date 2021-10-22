@@ -1,7 +1,9 @@
 # python_challenge
 
 
-Application instructions.
+Application instructions. 
+
+Application runs as CLI. IT returns json text in command line interface.
 
 1) running globally:
 
